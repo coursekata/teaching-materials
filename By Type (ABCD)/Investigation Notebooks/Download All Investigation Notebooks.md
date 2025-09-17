@@ -1,0 +1,1 @@
+[Download All Investigation Notebooks](https://download-directory.github.io/?url=https://github.com/coursekata/teaching-materials/tree/main/By%20Type%20(ABCD)/Investigation%20Notebooks)
