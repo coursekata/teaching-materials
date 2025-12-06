@@ -1,50 +1,65 @@
-# History files
+# R
 .Rhistory
-.Rapp.history
+
+# Quarto renders
+*_files/
+*.html
+**/*.html
+
+# General
+**/.DS_Store
 .DS_Store
+.AppleDouble
+.LSOverride
+*.code-workspace
 
-# Session Data files
-.RData
-.RDataTmp
+# Icon must end with two \r
+Icon
 
-# User-specific files
-.Ruserdata
+#MWeb
+**/.MWebMetaData
 
-# Example code in package build process
-*-Ex.R
 
-# Output files from R CMD build
-/*.tar.gz
+# Thumbnails
+._*
 
-# Output files from R CMD check
-/*.Rcheck/
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# RStudio files
-.Rproj.user/
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# Dump file
+*.stackdump
 
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
+# Folder config file
+[Dd]esktop.ini
 
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# R Environment Variables
-.Renviron
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
 
-# pkgdown site
-docs/
-
-# translation temp files
-po/*~
-
-# RStudio Connect folder
-rsconnect/
+# Windows shortcuts
+*.lnk
+.Rproj.user
