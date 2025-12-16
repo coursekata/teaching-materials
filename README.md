@@ -12,3 +12,5 @@ They are organized in two ways:
 You can download files individually, or you can download the entire repo by clicking the green "Code" button and selecting "Download ZIP". 
 
 Keep in mind that we update materials continuously so check back regularly for changes!
+
+We also offer an "Extra Topics" folder that contains a few sample lessons on statistics and data science topics that are not covered or are only lightly covered in the ABCD textbook.
